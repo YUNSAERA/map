@@ -1,0 +1,8 @@
+/* src/index.css */
+@import "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css";
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
